@@ -1,29 +1,14 @@
 {
-    "name": "topthink/think",
-    "description": "the new thinkphp framework",
+    "name": "jialingfei/test",
+    "description": "第二次",
     "type": "project",
-    "keywords": [
-        "framework",
-        "thinkphp",
-        "ORM"
-    ],
-    "homepage": "http://thinkphp.cn/",
-    "license": "Apache-2.0",
+    "license": "MIT",
     "authors": [
         {
-            "name": "liu21st",
-            "email": "liu21st@gmail.com"
+            "name": "tiramisuer8023",
+            "email": "1339376695@qq.com"
         }
     ],
-    "require": {
-        "php": ">=5.4.0",
-        "topthink/framework": "~5.0.0",
-        "zoujingli/ip2region": "^1.0"
-    },
-    "extra": {
-        "think-path": "thinkphp"
-    },
-    "config": {
-        "preferred-install": "dist"
-    }
+    "minimum-stability": "dev",
+    "require": {}
 }

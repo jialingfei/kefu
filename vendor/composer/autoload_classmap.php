@@ -6,5 +6,4 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Ip2Region' => $vendorDir . '/zoujingli/ip2region/Ip2Region.php',
 );
